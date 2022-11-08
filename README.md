@@ -122,31 +122,7 @@ Output: 7
 
   - -10^9 <= A <= 10^9
   - A <= B <= 10^9
-
-## For06
-
-  Return the sum of all integers from A to B.
-
-**Example 1:**
-
-```Python
-Input: A = 3 B = 6
-Output: 12
-
-```
-
-**Example 2:**
-
-```Python
-Input: A = -6 B = 8
-Output: 7
-
-```
-
-**Constraints:**
-
-  - -10^9 <= A <= 10^9
-  - A <= B <= 10^9
+  
 
 ## For07
 
