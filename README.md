@@ -198,7 +198,7 @@ Output: [2.25, 4.5, 6.75, 9.0, 11.25, 13.5, 15.75, 18.0, 20.25, 22.5]
 
 ## For10
 
-  The price of a kilogram of sweets is given. Return the price of a dessert from one to ten kg in the form of a list.
+  Returns a list where only the first letter of each name is capitalized.
 
 **Example 1:**
 
@@ -208,9 +208,6 @@ Output: ['Rustam', 'Diyor', 'Alisher', 'Bektosh']
 
 ```
 
-**Constraints:**
-
-  - 0 <= price <= 10^9
 
 # Warning
 - don't copy other solutions or any solution
